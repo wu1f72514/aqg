@@ -1,0 +1,3 @@
+[submodule "libs/material-dashboard"]
+	path = libs/material-dashboard
+	url = https://github.com/wu1f72514/material-dashboard.git

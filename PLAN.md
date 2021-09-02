@@ -1,0 +1,5 @@
+- saisie du plan d'entretien (changements d'eau, nettoyages, entretiens)
+- indication des prochains entretiens / ceux dépassés
+- saisie des entretiens
+- liste chronologique des entretiens
+- possibilité de gérer plusieurs aquariums
