@@ -1,0 +1,12 @@
+.tooltip-helper-active-description{
+    background-color: rgba(255, 255, 255, .6);
+}
+.tooltip-helper-end-sequence{
+    background-color: #FF595E;
+}
+.tooltip-helper-prev-sequence{
+    background-color: #EBD2B4;
+}
+.tooltip-helper-next-sequence{
+    background-color: #60935D;
+}
