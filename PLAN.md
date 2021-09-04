@@ -10,9 +10,12 @@ Type entretien, sous entretien en js fichier à plat
 7. Liste des entretiens réalisés
 8. Ajouter un évènement (ajout plante , poisson)
 9. Liste des évènements
+9b. Saisie analyses d'eau + courbes d'évolution des paramètres eau
 10. Modal conditions d'utilisation
 11. Versionning site
 12. Tour pour débutants (tutos)
+Tours thématiques sur certains points
+Mémoriser si tour débutant est deja fait
 13. Sauvegarde sur site (payant / petit prix)
 1€ par mois = 0.80€ ht = point zéro à 8 clients
 Api fastapi
