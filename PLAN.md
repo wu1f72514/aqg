@@ -47,4 +47,11 @@ Mesure des temps d'accès et charge serveur
 1 Aquarium(s)
    
 2 Entretiens (plan, réalisés)
-3 
+3
+
+**Financement**
+- option payante avec point 0 à 8 users
+- temps de dev à financer
+- vps ovh à 6€ par mois au début. A faire évoluer en fonction du succès
+- options incitatives et cta pour offre payante
+- paiement mensuel, annuel , réduc en conséquence
