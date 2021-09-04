@@ -14,6 +14,7 @@ Type entretien, sous entretien en js fichier à plat
 11. Versionning site
 12. Tour pour débutants (tutos)
 13. Sauvegarde sur site (payant / petit prix)
+1€ par mois = 0.80€ ht = point zéro à 8 clients
 Api fastapi
 Bdd postgre
 Identification user
@@ -22,7 +23,8 @@ Profil public
 Photos évolution aquarium
 Avertissement entretiens
 Calcul paramètres eau
-
+Hébergement sur VPS à 6€ mois au début
+Mesure des temps d'accès et charge serveur
 
 - saisie du plan d'entretien (changements d'eau, nettoyages, entretiens)
   - type entretien
