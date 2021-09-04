@@ -3,10 +3,25 @@
 Stockage localstorage
 2. Affichage données de l'aquarium concerné dans bloc entretien
 3. Ajouter un entretien
+Type entretien, sous entretien en js fichier à plat
 4. Plan entretien, stockage json plat
 5. Annonce prochains entretiens
 6. Avertissement entretien dépassé
-7. 
+7. Liste des entretiens réalisés
+8. Ajouter un évènement (ajout plante , poisson)
+9. Liste des évènements
+10. Modal conditions d'utilisation
+11. Versionning site
+12. Tour pour débutants (tutos)
+13. Sauvegarde sur site (payant / petit prix)
+Api fastapi
+Bdd postgre
+Identification user
+Sauvegarde données en ligne
+Profil public
+Photos évolution aquarium
+Avertissement entretiens
+Calcul paramètres eau
 
 
 - saisie du plan d'entretien (changements d'eau, nettoyages, entretiens)
