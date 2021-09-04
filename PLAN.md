@@ -1,3 +1,14 @@
+**Roadmap**
+1. Switch aquarium
+Stockage localstorage
+2. Affichage données de l'aquarium concerné dans bloc entretien
+3. Ajouter un entretien
+4. Plan entretien, stockage json plat
+5. Annonce prochains entretiens
+6. Avertissement entretien dépassé
+7. 
+
+
 - saisie du plan d'entretien (changements d'eau, nettoyages, entretiens)
   - type entretien
   - selon type entretien, champs et valeurs à indiquer
@@ -14,5 +25,6 @@
   - mentions légales
 
 1 Aquarium(s)
+   
 2 Entretiens (plan, réalisés)
 3 
