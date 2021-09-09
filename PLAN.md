@@ -1,4 +1,16 @@
 **Roadmap**
+0. Maquette
+Menu top : choix aquarium, acces profil user,
+Accès premium abonnement
+Menu gauche : dashboard, entretiens,
+Événements, mesures, photos
+
+Présentation en tableau comportant par ordre
+Chrono tous les évènements, entretien, mesures
+Le menu gauche applique juste un filtre sur le 
+tableau
+
+
 1. Switch aquarium
 Stockage localstorage
 2. Affichage données de l'aquarium concerné dans bloc entretien
