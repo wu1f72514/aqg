@@ -55,6 +55,9 @@ Mesure des temps d'accès et charge serveur
   - licences
   - fonctionnement du site
   - mentions légales
+14. Annonce demande aide, échange, dons, vente
+Discussions sur aquarium sur fiche
+Lister contenu aquarium, signaler échange/vente pompe
 
 1 Aquarium(s)
    
